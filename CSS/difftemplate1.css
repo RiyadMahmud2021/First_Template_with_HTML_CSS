@@ -1,0 +1,129 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.template{
+    
+    width: auto;
+    
+}
+.row1{
+    height:500px;
+    width: 100%;
+    background: url(../img/bg.jpg);
+    float:none;
+    
+}
+.leftside{
+     
+    margin-top: 200px;
+    margin-right: 
+    height:400px;
+    width: 50%;
+    background: ;
+    float: left;
+    
+    
+}
+.leftside p{
+   
+    margin-left: 250px;
+    float: left;
+    color: aquamarine;
+       
+}
+.leftside h{
+    margin-left: 250px;
+    float: left;
+    color:white;
+    font-size: 50px;
+}
+button{
+    
+     height: 30px;
+     width: 90px;
+     color:blueviolet;
+     border-radius: 300px;
+     border:none;
+     box-shadow: 4px 5px 6px;
+     float: left;
+     margin-top: 14px;
+     margin-left: 250px;
+    
+}
+.rightside{
+    
+    width: 50%;
+    height: 400px;
+    float: left;
+    
+}
+.rightside img{
+    
+    height: 380px;
+    width: 380px;
+   margin-left: 143px;
+    margin-top: 50px;
+    
+    transform: rotate(30deg);
+}
+/*.twopart{
+    
+    padding:30px;
+    height: 580px;
+    width: 100%;
+    
+}
+.partall_top{
+    
+    height: 290px;
+    width: 100%;
+    padding-bottom: 20px;
+}
+.part1{
+    
+    float: left;
+    padding: 10px;
+}
+.part img{
+    width:190px;
+    height:180px;
+    
+}
+.part_button{
+    
+    width:200px;
+    height:180px;
+}
+.part2{
+    float: left;
+    padding: 10px;
+}
+.part img{
+    
+    width:170px;
+    height:170px;
+    
+}
+.part_button{
+    
+    width:200px;
+    height:180px;
+}
+
+.part3{
+    padding: 10px;
+    float: left;
+}
+.part img{
+    
+    width:170px;
+    height:170px;
+    
+}
+.part_button{
+    
+    width:200px;
+    height:180px;
+}
+*/
